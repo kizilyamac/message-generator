@@ -3,7 +3,7 @@ const data = {
     kim:["Mert", "Melisa", "Pers", "Moka", "Mirac"],
     kiminle:["Karl Marxla", "Ahmet Kayayla", "Serdar Ortacla", "Bruce Willsle", "Wolverinele"],
     "neZaman": ["sabahleyin", "bir nisanda", "aksam","sali gunu", "gun dogarken"],
-    nerede: ["Tubingen'de", "Mersin'de", "evde", "cennette", "aqua parkta","resim galerisinde"],
+    nerede: ["Tubingen'de", "Mersin'de", "evde", "cennette", "aqua parkta","resim galerisinde"]
     "neYapti": ["sevisti", "guresti", "dertlesti", "tavla oynadi", "film izledi"]
 };
 
